@@ -1,33 +1,33 @@
 
-Skip to content
-All gists
-Back to GitHub
+Skiptocontent
+Allgists
+BacktoGitHub
 @TheoBiardeau
 @MOOOWOOO
 MOOOWOOO/py-gitignore
-Created 6 years ago • Report abuse
+Created6yearsago•Reportabuse
 
 66
 
-    10
+10
 
 Code
-Revisions 1
-Stars 66
-Forks 10
-python pycharm gitignore
+Revisions1
+Stars66
+Forks10
+pythonpycharmgitignore
 py-gitignore
-# Created by .ignore support plugin (hsz.mobi)
-### Python template
-# Byte-compiled / optimized / DLL files
+#Createdby.ignoresupportplugin(hsz.mobi)
+###Pythontemplate
+#Byte-compiled/optimized/DLLfiles
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+#Cextensions
 *.so
 
-# Distribution / packaging
+#Distribution/packaging
 .Python
 env/
 build/
@@ -45,17 +45,17 @@ var/
 .installed.cfg
 *.egg
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+#PyInstaller
+#Usuallythesefilesarewrittenbyapythonscriptfromatemplate
+#beforePyInstallerbuildstheexe,soastoinjectdate/otherinfosintoit.
 *.manifest
 *.spec
 
-# Installer logs
+#Installerlogs
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+#Unittest/coveragereports
 htmlcov/
 .tox/
 .coverage
@@ -66,51 +66,51 @@ coverage.xml
 *,cover
 .hypothesis/
 
-# Translations
+#Translations
 *.mo
 *.pot
 
-# Django stuff:
+#Djangostuff:
 *.log
 local_settings.py
 
-# Flask stuff:
+#Flaskstuff:
 instance/
 .webassets-cache
 
-# Scrapy stuff:
+#Scrapystuff:
 .scrapy
 
-# Sphinx documentation
+#Sphinxdocumentation
 docs/_build/
 
-# PyBuilder
+#PyBuilder
 target/
 
-# IPython Notebook
+#IPythonNotebook
 .ipynb_checkpoints
 
-# pyenv
+#pyenv
 .python-version
 
-# celery beat schedule file
+#celerybeatschedulefile
 celerybeat-schedule
 
-# dotenv
+#dotenv
 .env
 
-# virtualenv
+#virtualenv
 venv/
 ENV/
 
-# Spyder project settings
+#Spyderprojectsettings
 .spyderproject
 
-# Rope project settings
+#Ropeprojectsettings
 .ropeproject
-### VirtualEnv template
-# Virtualenv
-# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+###VirtualEnvtemplate
+#Virtualenv
+#http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 .Python
 [Bb]in
 [Ii]nclude
@@ -121,18 +121,18 @@ ENV/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
-### JetBrains template
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+###JetBrainstemplate
+#CoversJetBrainsIDEs:IntelliJ,RubyMine,PhpStorm,AppCode,PyCharm,CLion,AndroidStudioandWebstorm
+#Reference:https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-# User-specific stuff:
+#User-specificstuff:
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
 
-# Sensitive or high-churn files:
+#Sensitiveorhigh-churnfiles:
 .idea/dataSources.ids
 .idea/dataSources.xml
 .idea/dataSources.local.xml
@@ -140,107 +140,107 @@ pip-selfcheck.json
 .idea/dynamic.xml
 .idea/uiDesigner.xml
 
-# Gradle:
+#Gradle:
 .idea/gradle.xml
 .idea/libraries
 
-# Mongo Explorer plugin:
+#MongoExplorerplugin:
 .idea/mongoSettings.xml
 
 .idea/
 
-## File-based project format:
+##File-basedprojectformat:
 *.iws
 
-## Plugin-specific files:
+##Plugin-specificfiles:
 
-# IntelliJ
+#IntelliJ
 /out/
 
-# mpeltonen/sbt-idea plugin
+#mpeltonen/sbt-ideaplugin
 .idea_modules/
 
-# JIRA plugin
+#JIRAplugin
 atlassian-ide-plugin.xml
 
-# Crashlytics plugin (for Android Studio and IntelliJ)
+#Crashlyticsplugin(forAndroidStudioandIntelliJ)
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
 @aletifov
-aletifov commented on Jan 15, 2020
+aletifovcommentedonJan15,2020
 
 ty
 @ViktorLavrenenko
-ViktorLavrenenko commented on May 2, 2020
+ViktorLavrenenkocommentedonMay2,2020
 
 Thanks)
 @JasonVanRaamsdonk
-JasonVanRaamsdonk commented on May 14, 2020
+JasonVanRaamsdonkcommentedonMay14,2020
 
-helpful, thanks
+helpful,thanks
 @Capelinha
-Capelinha commented on May 28, 2020
+CapelinhacommentedonMay28,2020
 
 1st_place_medal
 @chichur
-chichur commented on Jul 19, 2020
+chichurcommentedonJul19,2020
 
 спасибо
 @AVladyslav
-AVladyslav commented on Oct 25, 2020
+AVladyslavcommentedonOct25,2020
 
 thx
 @voidloop
-voidloop commented on Nov 7, 2020
+voidloopcommentedonNov7,2020
 
-Thank you!
+Thankyou!
 
-'.Python' pattern is defined more than once.
+'.Python'patternisdefinedmorethanonce.
 @achraf-jeday
-achraf-jeday commented on Nov 10, 2020
+achraf-jedaycommentedonNov10,2020
 
-Merci beaucoup !!
+Mercibeaucoup!!
 @lenargasimov
-lenargasimov commented on Feb 25, 2021
+lenargasimovcommentedonFeb25,2021
 
 Thx!
 @Joknaa
-Joknaa commented on Mar 31, 2021
+JoknaacommentedonMar31,2021
 
-thanks you
+thanksyou
 @KrishGarg
-KrishGarg commented on Apr 18, 2021
+KrishGargcommentedonApr18,2021
 
-You, my friend, are a legend. Thanks!
+You,myfriend,arealegend.Thanks!
 @GreyEdwardTen
-GreyEdwardTen commented on May 20, 2021
+GreyEdwardTencommentedonMay20,2021
 
-Thanks very much
+Thanksverymuch
 @tlancon
-tlancon commented on May 26, 2021
+tlanconcommentedonMay26,2021
 
-Thank you!
+Thankyou!
 @zvarychdenys
-zvarychdenys commented on Jul 7, 2021
+zvarychdenyscommentedonJul7,2021
 
 thanks!!!
 @TheoBiardeau
-Attach files by dragging & dropping, selecting or pasting them.
+Attachfilesbydragging&dropping,selectingorpastingthem.
 
-    © 2022 GitHub, Inc.
+©2022GitHub,Inc.
 
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
+Terms
+Privacy
+Security
+Status
+Docs
+ContactGitHub
+Pricing
+API
+Training
+Blog
+About
 
